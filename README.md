@@ -56,13 +56,6 @@ const huzaifa = {
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=huzaifa-zafar-repo&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
 
 ---
 
@@ -74,7 +67,7 @@ const huzaifa = {
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com">
+<a href="https://www.linkedin.com/in/huzaifa-zafar-146322389/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -84,13 +77,9 @@ const huzaifa = {
 
 ## 🐍 Contribution Snake
 
-```html
 <p align="center">
   <img src="https://raw.githubusercontent.com/huzaifa-zafar-repo/huzaifa-zafar-repo/output/github-contribution-grid-snake-dark.svg">
 </p>
-```
-
----
 
 <div align="center">
 
