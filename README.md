@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi 👋, I'm Huzaifa Zafar
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Huzaifa+Zafar;Full+Stack+Developer;Next.js+%7C+TypeScript+%7C+TailwindCSS;Building+Modern+Web+Experiences" />
 
-### Full Stack Developer • Next.js Developer • UI/UX Enthusiast
+<br/>
 
-Building modern web applications with clean design, scalable architecture, and exceptional user experiences.
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450"/>
 
 </div>
 
@@ -12,26 +12,90 @@ Building modern web applications with clean design, scalable architecture, and e
 
 ## 🚀 About Me
 
-- 💻 Full Stack Web Developer
-- ⚡ Specialized in Next.js & TypeScript
-- 🎨 Passionate about modern UI/UX
-- 🌱 Continuously learning and building
-- 🚀 Focused on creating real-world products
-
-## 🛠 Tech Stack
-
-Next.js • React • TypeScript • JavaScript • Tailwind CSS • Node.js • MongoDB • Firebase • Git • GitHub • Figma
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=huzaifa-zafar-repo&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=huzaifa-zafar-repo&theme=tokyonight&hide_border=true)
-
-## 📈 Activity Graph
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=huzaifa-zafar-repo&theme=tokyo-night&hide_border=true)
+```javascript
+const huzaifa = {
+  role: "Full Stack Developer",
+  frontend: ["Next.js", "React", "TypeScript", "TailwindCSS"],
+  backend: ["Node.js", "Express"],
+  database: ["MongoDB", "Firebase"],
+  currentFocus: "Building scalable web applications",
+};
+```
 
 ---
 
-### ⚡ Building products, not just projects.
+## 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,mongodb,firebase,git,github,vscode,figma&perline=6"/>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=huzaifa-zafar-repo&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa-zafar-repo&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifa-zafar-repo&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=huzaifa-zafar-repo&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/huzaifa-zafar-repo">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+```html
+<p align="center">
+  <img src="https://raw.githubusercontent.com/huzaifa-zafar-repo/huzaifa-zafar-repo/output/github-contribution-grid-snake-dark.svg">
+</p>
+```
+
+---
+
+<div align="center">
+
+### ⚡ Building Products, Not Just Projects
+
+<img src="https://komarev.com/ghpvc/?username=huzaifa-zafar-repo&label=Profile+Views&color=0e75b6&style=flat"/>
+
+</div>
